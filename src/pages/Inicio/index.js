@@ -1,5 +1,6 @@
 import Banner from "components/Banner";
 import Cabecalho from "components/Cabecalho";
+import Card from "components/Card";
 import Rodape from "components/Rodape";
 import Titulo from "components/Titulo";
 
@@ -13,6 +14,7 @@ function Inicio() {
                 Um lugar para guardar seus videos  e filmes
              </h1>
           </Titulo>
+          <Card id="1" titulo="gato maneiro" capa="https://github.com/michaelmoranis.png" />
           <Rodape />
        </>
     )
