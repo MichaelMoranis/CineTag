@@ -2,9 +2,9 @@ import styles from "./Rodape.module.css"
 
 function Rodape() {
     return (
-        <p className={styles.paragrafo}>
-            Desenvolvido por Alura & Michael
-        </p>
+        <footer className={styles.rodape}>
+            <h2>Desenvolvido por Alura & Michael</h2>
+        </footer>
     )
 }
 

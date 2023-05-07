@@ -1,10 +1,15 @@
-.paragrafo {
-    position: absolute;
-    width: 1920px;
-    height: 20px;
-    top: 1483px;
-    padding: 2em 0;
-    text-align: center;
+.rodape {
+    display: flex;
+    justify-content: center;
     background-color: var(--preto);
+    position: absolute;
+    top: 1483px;
+    width: 100%;
+}
+
+.rodape h2 {
+    font-weight: 400;
+    font-size: 18px;
     color: var(--branco);
+    text-align: center;
 }
