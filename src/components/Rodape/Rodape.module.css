@@ -3,7 +3,7 @@
     justify-content: center;
     background-color: var(--preto);
     position: absolute;
-    top: 1483px;
+    bottom: 0;
     width: 100%;
 }
 
