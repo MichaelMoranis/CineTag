@@ -1,0 +1,10 @@
+.paragrafo {
+    position: absolute;
+    width: 1920px;
+    height: 20px;
+    top: 1483px;
+    padding: 2em 0;
+    text-align: center;
+    background-color: var(--preto);
+    color: var(--branco);
+}
